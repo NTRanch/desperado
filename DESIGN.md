@@ -20,6 +20,42 @@ the jam build.
   scatter/rocket forms — wielded through gun-kata martial arts.
 - Mission: return to San Aurelia and face the framing agent.
 
+## Theme — SHIFT (Game Off 2026; Owner-ruled fit, D-403)
+
+The jam theme is **SHIFT**, and it is not decoration on this
+design — it is the design, named. Four layers, all inside the
+existing cut; the theme adds no content, only law:
+
+1. **The mechanic is the theme.** Spending a Beat to morph
+   the Desperado mid-combo is, in fiction and in the HUD,
+   **the Shift**. The dodge/parry window and the shift window
+   are the same beat: you shift *on* the beat, at the last
+   instant, or the kata breaks. Player-facing verb: SHIFT.
+   The combo counter is the **Shift chain**; the current form
+   is the **Shift state**.
+2. **The town shifts.** San Aurelia sits on a fault in the
+   Deseos' magic, left by the night of the murders. The three
+   passes are the block's three **Shifts** — Dusk Shift,
+   Midnight Shift, Dawn Shift. Each duel's climax triggers the
+   next Shift: gates open and close, the water tower's
+   sightline rotates, stalls and witnesses move, patrol routes
+   re-draw. One geometry skeleton, three shifted states.
+3. **The story shifts.** The false witness's account *changes*
+   between Shifts; the investigation loops compare shifted
+   testimony, and the Truth morph exposes the seams where the
+   versions disagree. The boss's three phases are his three
+   shifts of form and style. The endings are the stance the
+   heir finally shifts into — and stays.
+4. **The presentation shifts.** One signature effect, the
+   **shift snap** (silhouette smear, palette swap, a single
+   drum Beat), spent on every morph, pass transition, and boss
+   phase change — one effect vocabulary everywhere, so the
+   juice budget concentrates instead of spreading. The palette
+   itself shifts per pass: sunset, midnight, dawn.
+
+NG+ "High Noon" is the block locked in a fourth, hardest
+Shift — the same remix plan, now theme-native.
+
 ## Structure
 
 - Three passes over one town block: dusk, midnight, dawn.
@@ -36,7 +72,8 @@ the jam build.
 ## La Forma (the mechanic)
 
 - Last-instant dodge/parry earns a **Beat**.
-- Beats are spent to morph the Desperado **mid-combo**.
+- Beats are spent to **Shift** — morph the Desperado
+  **mid-combo** (see Theme — SHIFT).
 - Morphs are expressions of one system, not three systems:
   Vengeance (pressure), Truth (exposure), Freedom (position).
 - The player's skill is choosing the desire that fits the
