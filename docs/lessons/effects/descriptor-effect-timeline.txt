@@ -1,0 +1,4 @@
+# OPST descriptor — SFW effects, timeline authoring brief (Sylvia/Clara)
+# pack: sfw/effects v1.0.0. Provenance: SFW pipes Stage 2 gate records
+# (D-863) + OE-1b discipline (D-785). Record-authoring descriptor.
+BRIEF: Author one effect as a lumen-fx/1 timeline record. Declare the flash budget first: the finished record must sample at or under 3 luminance flashes per second, and ambient effects target zero. Emitters are data (kind, count, interval, life, size keys, glow); every stream is seeded from the record seed so two evaluations replay to the same hash. Slow, feathered transitions are the house posture — no hard strobes, no full-frame luminance steps. Done means: fx-verified, replay hashes agree, flash rate measured and inside budget.

@@ -1,0 +1,8 @@
+# OPST descriptor — SFW characters/portraits, Versemend register
+# pack: sfw/characters-portraits v1.0.0 — load verbatim; subject tokens
+# come from the character record and precede POS in the prompt assembly.
+# Provenance: D-836 art bible §7.2 + canon pack findings as ruled
+# D-843 (name skin tone and every load-bearing attribute, hair first)
+# and D-844 (plural-architecture wording for places).
+POS: flat cel shading, bold clean outlines, clean lineart, saturated colors, warm storybook illustration, parchment and lamp-amber and ink-blue palette, leaf green accents, sunlit warm daylight, adult woman, skin tone and hair colour and hair arrangement named in the record tokens, full body, standing, craft tool of office visible as the silhouette key, open teaching gesture, posture and hands and stance carry the expression, matte skin, detailed eyes
+NEG: worst quality, low quality, lowres, bad anatomy, bad hands, malformed hands, extra fingers, missing fingers, fused fingers, deformed, blurry, watermark, signature, text, letters, numerals, pseudo-script, writing, logo, username, extra eyes, deformed eyes, asymmetric eyes, duplicate, photorealistic, cgi, 3d render, render, 2girls, multiple girls, extra person, crowd, chibi, loli, child, young girl, cold palette, neon, cyberpunk, floating objects, magic sparkles, glossy skin, plastic skin, oily skin, hooded cloak

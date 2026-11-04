@@ -1,0 +1,6 @@
+# OPST descriptor — SFW environments/plates, Niflheim Stratum I
+# pack: sfw/environments-plates v1.0.0. Provenance: D-841 production
+# law (stone beacon turret; tally bridge named as a structure;
+# accent discipline) + art bible §3 kit anatomy.
+POS: flat cel shading, bold clean outlines, landscape vista, layered depth, foreground frozen river and rocks, midground stone gatehouse and stone beacon turret and a tally bridge across the river, background iron-grey mountain peaks, cold surface daylight, iron grey and ice blue and stone palette, small tally-red door and banner accents, matte, detailed environment
+NEG: worst quality, low quality, lowres, blurry, watermark, signature, text, letters, pseudo-script, logo, photorealistic, cgi, 3d render, render, radio tower, lattice mast, antenna, power lines, modern building, warm palette, orange sky, golden hour, neon, glowing stream, characters, people, close-up

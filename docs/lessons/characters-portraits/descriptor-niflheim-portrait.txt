@@ -1,0 +1,8 @@
+# OPST descriptor — SFW characters/portraits, Niflheim register
+# pack: sfw/characters-portraits v1.0.0 — load verbatim; subject tokens
+# come from the character record and precede POS in the prompt assembly.
+# Provenance: D-836 art bible §7.1 + canon pack findings as ruled
+# D-840/D-841 (age and hair named explicitly; floating crystal
+# negatived; lone warm accent; concrete structure wording).
+POS: flat cel shading, bold clean outlines, clean lineart, saturated colors, cold surface daylight, iron grey and ice blue and stone palette, muted slate tones, (tally red accent on exactly one element:1.15), dignified guild keeper, adult woman, age and hair named in the record tokens, full body, standing, tool of office held or worn visibly, silhouette readable at thumbnail size, matte skin, detailed eyes
+NEG: worst quality, low quality, lowres, bad anatomy, bad hands, malformed hands, extra fingers, missing fingers, fused fingers, deformed, blurry, watermark, signature, text, letters, numerals, pseudo-script, writing, logo, username, extra eyes, deformed eyes, asymmetric eyes, duplicate, photorealistic, cgi, 3d render, render, 2girls, multiple girls, extra person, crowd, chibi, loli, child, young girl, warm neon, neon glow, orange palette, golden palette, floating crystal, floating gem, hovering object, magic sparkles, lens flare, glossy skin, plastic skin, oily skin

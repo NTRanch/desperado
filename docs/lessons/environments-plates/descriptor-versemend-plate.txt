@@ -1,0 +1,5 @@
+# OPST descriptor — SFW environments/plates, Versemend Lamplit Parishes
+# pack: sfw/environments-plates v1.0.0. Provenance: D-844 (V2b adopted;
+# plural-architecture wording law) + art bible §3/§7.2.
+POS: flat cel shading, bold clean outlines, warm storybook town vista at dusk, layered depth, foreground lamp-post and lane, midground guildhall frontage and market stalls and a row of houses, background soft hills, parchment and lamp-amber and ink-blue palette, lit windows, dusk gradient sky, matte, detailed environment
+NEG: worst quality, low quality, lowres, blurry, watermark, signature, text, letters, pseudo-script, logo, photorealistic, cgi, 3d render, render, single house, isolated building, night, neon, cyberpunk, cold palette, characters, people, close-up, food cart, modern vehicles

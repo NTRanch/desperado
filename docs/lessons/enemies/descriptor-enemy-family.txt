@@ -1,0 +1,4 @@
+# OPST descriptor — SFW enemies, genesis authoring brief (Sylvia/Clara)
+# pack: sfw/enemies v1.0.0. Provenance: SFW pipes Stage 3 gate record
+# (D-863). This is a record-authoring descriptor, not an image prompt.
+BRIEF: Author one enemy FAMILY as a frozen genesis record. Declare the variant table first (every axis with explicit min/max ranges), then the members inside those ranges. Behaviour is data: phases, triggers, and transitions as structured blocks, never prose promises. Stat values that are illustrative carry example_data: true — an unflagged invented number is a defect. The record must hash-pin: same seed, byte-identical emission, any later edit is a new version with a new pin. Refuse, do not clamp: a member outside the declared ranges fails authoring.

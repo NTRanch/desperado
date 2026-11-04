@@ -1,0 +1,582 @@
+{
+ "game": "desperado",
+ "run": "desperado-build-20261103",
+ "assets": [
+  {
+   "asset": "assets/plates/town_dusk.png",
+   "kind": "plate",
+   "status": "candidate",
+   "made_by": {
+    "name": "Iris",
+    "category": "Image",
+    "model": "Illustrious-XL-v1.1",
+    "weights": "Illustrious-XL-v1.1.safetensors",
+    "weights_sha256": "536863e9f0c13b0ce834e2f8a19ada425ee4f722c0ad3d0051ec7e6adaa8156c"
+   },
+   "seed": 20261110,
+   "prompt": "stylized 2D game background plate, orbital desert frontier town plaza at dusk, adobe stone building frontage on both sides, a row of market stalls with canvas awnings, a lane of lamp-posts with warm amber light, stone beacon turret water tower, gunsmith workshop with a wide wooden door, saloon with a porch, dusty rose and amber sunset sky, layered depth, empty plaza foreground, painterly, no people, one warm accent family of lamp light",
+   "recipe": "euler_ancestral/normal, 30 steps, CFG 6.0",
+   "run": "desperado-build-20261103",
+   "sha256": "299f010d466ef048de61a541cf57adc25729d8c49fd840ebc3e6d787c311eddf",
+   "record_hash": "bc8bdb4644c8028c2f0349f8bea6087007b2740f5189b47585b80e8a0b3b97a5"
+  },
+  {
+   "asset": "assets/portraits/heir.png",
+   "kind": "portrait",
+   "status": "candidate",
+   "made_by": {
+    "name": "Iris",
+    "category": "Image",
+    "model": "Illustrious-XL-v1.1",
+    "weights": "Illustrious-XL-v1.1.safetensors",
+    "weights_sha256": "536863e9f0c13b0ce834e2f8a19ada425ee4f722c0ad3d0051ec7e6adaa8156c"
+   },
+   "seed": 20261111,
+   "prompt": "portrait bust of a young man gunfighter gunsmith, long dark brown coat, tousled black hair, warm brown skin, amber-brown eyes, determined expression, a shape-shifting magic-tech pistol at his hip, desert dusk rim light, stylized painterly game portrait, plain dark background",
+   "recipe": "euler_ancestral/normal, 30 steps, CFG 6.0",
+   "run": "desperado-build-20261103",
+   "sha256": "d1629e5a92d4f41169c5c97d39d83233f842926c48739b6461c70961ec16532a",
+   "record_hash": "0bff5e86862134ebb277264f237dea34d9d689492ae2271dc73ce229dd6c9868"
+  },
+  {
+   "asset": "assets/portraits/enforcer.png",
+   "kind": "portrait",
+   "status": "candidate",
+   "made_by": {
+    "name": "Iris",
+    "category": "Image",
+    "model": "Illustrious-XL-v1.1",
+    "weights": "Illustrious-XL-v1.1.safetensors",
+    "weights_sha256": "536863e9f0c13b0ce834e2f8a19ada425ee4f722c0ad3d0051ec7e6adaa8156c"
+   },
+   "seed": 20261112,
+   "prompt": "portrait bust of a stern woman corporate enforcer, short crimson hair, tan skin, grey eyes, dark armored coat with one steel pauldron, scar through one eyebrow, stylized painterly game portrait, plain dark background",
+   "recipe": "euler_ancestral/normal, 30 steps, CFG 6.0",
+   "run": "desperado-build-20261103",
+   "sha256": "2cb0f3ca802525399b7738dfffe283c4f4ee189543a1fa843f55e484019985cb",
+   "record_hash": "bdf1dbb316df95f299e46a0da70f70014cadea6fb0aa113182da3aeb363e0b07"
+  },
+  {
+   "asset": "assets/portraits/witness.png",
+   "kind": "portrait",
+   "status": "candidate",
+   "made_by": {
+    "name": "Iris",
+    "category": "Image",
+    "model": "Illustrious-XL-v1.1",
+    "weights": "Illustrious-XL-v1.1.safetensors",
+    "weights_sha256": "536863e9f0c13b0ce834e2f8a19ada425ee4f722c0ad3d0051ec7e6adaa8156c"
+   },
+   "seed": 20261113,
+   "prompt": "portrait bust of a nervous young woman clerk, brown hair in a single braid, light warm skin, green eyes, plain work dress with a ledger under one arm, anxious expression, stylized painterly game portrait, plain dark background",
+   "recipe": "euler_ancestral/normal, 30 steps, CFG 6.0",
+   "run": "desperado-build-20261103",
+   "sha256": "2b4c7684c95d80d717cd5629f2ae10425919098489f24f2e575f1585cde4acee",
+   "record_hash": "6fd62d98a69d3a12c91dae5cf8c9f188ac8f25ee815446ac02a50f1d19de40cc"
+  },
+  {
+   "asset": "assets/portraits/captain.png",
+   "kind": "portrait",
+   "status": "candidate",
+   "made_by": {
+    "name": "Iris",
+    "category": "Image",
+    "model": "Illustrious-XL-v1.1",
+    "weights": "Illustrious-XL-v1.1.safetensors",
+    "weights_sha256": "536863e9f0c13b0ce834e2f8a19ada425ee4f722c0ad3d0051ec7e6adaa8156c"
+   },
+   "seed": 20261114,
+   "prompt": "portrait bust of an older man military captain, silver-grey hair, weathered brown skin, dark violet-grey long coat with a magenta sash, scarred jaw, cold expression, stylized painterly game portrait, plain dark background",
+   "recipe": "euler_ancestral/normal, 30 steps, CFG 6.0",
+   "run": "desperado-build-20261103",
+   "sha256": "280a926da964614d6857dd534bcfbe498b56034c525b06b10d7d7acdc24e0e78",
+   "record_hash": "343166cf767e5152436794cbf109aea0a3a0ab1db1ab0563a2b43f3a5222893a"
+  },
+  {
+   "asset": "assets/portraits/agent.png",
+   "kind": "portrait",
+   "status": "candidate",
+   "made_by": {
+    "name": "Iris",
+    "category": "Image",
+    "model": "Illustrious-XL-v1.1",
+    "weights": "Illustrious-XL-v1.1.safetensors",
+    "weights_sha256": "536863e9f0c13b0ce834e2f8a19ada425ee4f722c0ad3d0051ec7e6adaa8156c"
+   },
+   "seed": 20261115,
+   "prompt": "portrait bust of a cold elegant man in a black suit coat, slicked black hair, pale skin, dark eyes, pale gold necktie, calm sinister smile, stylized painterly game portrait, plain dark background",
+   "recipe": "euler_ancestral/normal, 30 steps, CFG 6.0",
+   "run": "desperado-build-20261103",
+   "sha256": "4f6c8e0b6b8355101c51a2bfa4d70aaa0f471213c4240668812d1b248454d7b4",
+   "record_hash": "b35a33bee813af2ab5f83677f1fa7c1ee957db7ded7a5309905df7216b27f80a"
+  },
+  {
+   "asset": "assets/portraits/mother.png",
+   "kind": "portrait",
+   "status": "candidate",
+   "made_by": {
+    "name": "Iris",
+    "category": "Image",
+    "model": "Illustrious-XL-v1.1",
+    "weights": "Illustrious-XL-v1.1.safetensors",
+    "weights_sha256": "536863e9f0c13b0ce834e2f8a19ada425ee4f722c0ad3d0051ec7e6adaa8156c"
+   },
+   "seed": 20261116,
+   "prompt": "portrait bust of a warm middle-aged woman master gunsmith, dark brown hair with grey streaks in a bun, warm brown skin, kind strong expression, work apron over a dress, workshop glow behind her, stylized painterly game portrait, plain dark background",
+   "recipe": "euler_ancestral/normal, 30 steps, CFG 6.0",
+   "run": "desperado-build-20261103",
+   "sha256": "cab9ce71add8239e9057cde68f72045bd0bc29d44782bdacf2a05c36ce750dfb",
+   "record_hash": "e40ba1ec28b100253c51f08c41a63d5fa7f5dd900edaf2393b13dff2129b6fc0"
+  },
+  {
+   "asset": "assets/plates/town_midnight.png",
+   "kind": "plate-grade",
+   "status": "candidate",
+   "made_by": {
+    "name": "deterministic finish op",
+    "category": "Image",
+    "model": "tools/grade_plates.py (PIL)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": null,
+   "prompt": "grade of assets/plates/town_dusk.png, brightness 0.52/blue-shift",
+   "recipe": "DESIGN.md re-grade law: one plate, palette grades per pass",
+   "run": "desperado-build-20261103",
+   "sha256": "37bcefc14101afa11a280c7095d761e74f809460401e7fead89e83e612786ef7",
+   "record_hash": "9ac80c726c33b455d3538ac1cf05d45f95167d9ad7e49b210a75dfebc16c38d2"
+  },
+  {
+   "asset": "assets/plates/town_dawn.png",
+   "kind": "plate-grade",
+   "status": "candidate",
+   "made_by": {
+    "name": "deterministic finish op",
+    "category": "Image",
+    "model": "tools/grade_plates.py (PIL)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": null,
+   "prompt": "grade of assets/plates/town_dusk.png, brightness 1.04",
+   "recipe": "DESIGN.md re-grade law: one plate, palette grades per pass",
+   "run": "desperado-build-20261103",
+   "sha256": "b8195ef3c7ffae1c4396553f81fd4c9f09cc23d092c5047c2d196cdbbb6ccd5c",
+   "record_hash": "08944171f1ea1e03d00c46e80baefc2aad2f2b8100c6e4b957cdfa601af722ea"
+  },
+  {
+   "asset": "assets/audio/music/dusk_theme.mp3",
+   "kind": "music",
+   "status": "candidate",
+   "made_by": {
+    "name": "Aria",
+    "category": "Audio",
+    "model": "ACE-Step 1.5 turbo",
+    "weights": "acestep_v1.5_turbo.safetensors",
+    "weights_sha256": "3f6e0797fad420a39bd33979eb6e840e30989e34a3794e843d23b60ec6e422d7"
+   },
+   "seed": 20261120,
+   "prompt": "instrumental spaghetti western score, twangy electric guitar, harmonica lead, brushed drums, warm desert dusk mood, cinematic, loopable",
+   "recipe": "blueprint recipe: 8 steps, CFG 1, euler/simple, AuraFlow shift 3, 60.0s @ 96 BPM",
+   "run": "desperado-build-20261103",
+   "sha256": "ef017de5831dcf0f2f05993de4863b475332cc926b14c8140aaa758291414708",
+   "record_hash": "55f72422637bc6416b1affa156a736ae370780a0e6c971e8f216ae7595b8292b"
+  },
+  {
+   "asset": "assets/audio/music/midnight_theme.mp3",
+   "kind": "music",
+   "status": "candidate",
+   "made_by": {
+    "name": "Aria",
+    "category": "Audio",
+    "model": "ACE-Step 1.5 turbo",
+    "weights": "acestep_v1.5_turbo.safetensors",
+    "weights_sha256": "3f6e0797fad420a39bd33979eb6e840e30989e34a3794e843d23b60ec6e422d7"
+   },
+   "seed": 20261121,
+   "prompt": "instrumental dark western ambient, sparse piano, distant harmonica, night desert wind mood, slow tension, cinematic, loopable",
+   "recipe": "blueprint recipe: 8 steps, CFG 1, euler/simple, AuraFlow shift 3, 60.0s @ 78 BPM",
+   "run": "desperado-build-20261103",
+   "sha256": "3751fc9ae184825aa757c471fa67b52084ed3f3a338af1dbef92263ef4ad3195",
+   "record_hash": "f18d57c1f3c98e2b76660f96d5c00a69abf75af254eccd3f69cdf9b3179df3f3"
+  },
+  {
+   "asset": "assets/audio/music/dawn_theme.mp3",
+   "kind": "music",
+   "status": "candidate",
+   "made_by": {
+    "name": "Aria",
+    "category": "Audio",
+    "model": "ACE-Step 1.5 turbo",
+    "weights": "acestep_v1.5_turbo.safetensors",
+    "weights_sha256": "3f6e0797fad420a39bd33979eb6e840e30989e34a3794e843d23b60ec6e422d7"
+   },
+   "seed": 20261122,
+   "prompt": "instrumental hopeful western score, acoustic guitar arpeggios, soft strings, sunrise warmth, resolved cinematic mood, loopable",
+   "recipe": "blueprint recipe: 8 steps, CFG 1, euler/simple, AuraFlow shift 3, 60.0s @ 92 BPM",
+   "run": "desperado-build-20261103",
+   "sha256": "604aa1a254d2885597d6d3abd2566274dc7098077274e036b8679dd90ab14bea",
+   "record_hash": "b23c560e0ae5523479bedb34b0fe7daed50e0c6d85b3d7280cae927888c7281c"
+  },
+  {
+   "asset": "assets/audio/music/duel_theme.mp3",
+   "kind": "music",
+   "status": "candidate",
+   "made_by": {
+    "name": "Aria",
+    "category": "Audio",
+    "model": "ACE-Step 1.5 turbo",
+    "weights": "acestep_v1.5_turbo.safetensors",
+    "weights_sha256": "3f6e0797fad420a39bd33979eb6e840e30989e34a3794e843d23b60ec6e422d7"
+   },
+   "seed": 20261123,
+   "prompt": "instrumental tense western duel music, staccato strings, ticking percussion, muted trumpet stabs, standoff tension, cinematic, loopable",
+   "recipe": "blueprint recipe: 8 steps, CFG 1, euler/simple, AuraFlow shift 3, 45.0s @ 118 BPM",
+   "run": "desperado-build-20261103",
+   "sha256": "92185361be5b8d2d3e866a492791ef94a20d814436d650749769a3ea8b58723a",
+   "record_hash": "bbec7c56b941427ed271a15e9850fb92820596edc3ace3cf41d5fe8264b11da9"
+  },
+  {
+   "asset": "assets/audio/music/boss_theme.mp3",
+   "kind": "music",
+   "status": "candidate",
+   "made_by": {
+    "name": "Aria",
+    "category": "Audio",
+    "model": "ACE-Step 1.5 turbo",
+    "weights": "acestep_v1.5_turbo.safetensors",
+    "weights_sha256": "3f6e0797fad420a39bd33979eb6e840e30989e34a3794e843d23b60ec6e422d7"
+   },
+   "seed": 20261124,
+   "prompt": "instrumental dramatic western boss battle, driving drums, low brass, distorted guitar pulses, escalating menace, cinematic, loopable",
+   "recipe": "blueprint recipe: 8 steps, CFG 1, euler/simple, AuraFlow shift 3, 45.0s @ 132 BPM",
+   "run": "desperado-build-20261103",
+   "sha256": "ab3d1eb048b30af258bdc74abf80b1ade6b23ad708a1ea4a8b59066f53eabdc5",
+   "record_hash": "2060dca082299ebad48cbe78c64b28f6e97c5fb0bdb3d0a1264376115e793c75"
+  },
+  {
+   "asset": "assets/audio/sfx/cache_chime.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "2989c0b86bf68e56dea3802a836b3f3a7d2dff2b5212eecc279f727f38fd5a30",
+   "record_hash": "42af8858735aaeed89ec0e17d303716ff0ee8bc708bc74742dfcda77a81048ec"
+  },
+  {
+   "asset": "assets/audio/sfx/dodge_whoosh.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "a82cf969d13a539d323029e15bbf8184bace827208dc38ffbd95c8f515cd94f6",
+   "record_hash": "5d82667b054e2235b1f21f7d531c2c97fbda6d703e0b3fe2dbc8146e085529f4"
+  },
+  {
+   "asset": "assets/audio/sfx/door_open.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "471fcadf4da57f2ddc5d00ad3da6f6f5dc528b708fcca7220e6148acefb75ac4",
+   "record_hash": "0f3b50eb3bd245e63b31085351ca86b12529b8a3fd846957bcb38d98ba9e5bc2"
+  },
+  {
+   "asset": "assets/audio/sfx/duel_start.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "86ba18716f9f63c448987762e9ec44a78a625285a329cce5db43ec25fd891161",
+   "record_hash": "c9939b6c20697cc05d478d427d3544530f1ec23dcdc055c7085ad4dfb5f7a01a"
+  },
+  {
+   "asset": "assets/audio/sfx/duel_won.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "fa37a6f6ba74a2927f305531ea0648cfb922a6a3d186c007a9310576c4b3100b",
+   "record_hash": "daa7bcf951558f796f6205bb579e8da2582491aca2de30c600caa898e1fe928f"
+  },
+  {
+   "asset": "assets/audio/sfx/enemy_shot.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "705b9b7a54ce6dc1899ab344caded808331f0217c29fdace1c7e67b9b570a29b",
+   "record_hash": "4cc1f22569df36672d096cb8f3ca7a6f2e59aa4066aecf4f6b8db5550dd6e16f"
+  },
+  {
+   "asset": "assets/audio/sfx/enemy_windup.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "1864f8a46fac6fb6fb5daa540595185954c42d5bed0f7109d95be7d750384c8e",
+   "record_hash": "072c2108dcb079875b1834740b79d7ac72f53b682f8289bcc3031cf7c3773284"
+  },
+  {
+   "asset": "assets/audio/sfx/hit_tick.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "2cf88ebf6fa1482d615ad4bd525538a02bd318a7e9b1f6a83cd2fa820965762f",
+   "record_hash": "c0ea7dff66d0334e0e671ad5e6d9d7727a9cee05167c536af89faa2e1f74b595"
+  },
+  {
+   "asset": "assets/audio/sfx/parry_chime.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "144498122239dfa5e4d16925c4a035b38fecec0243f3c0cd52ab8109118c01d3",
+   "record_hash": "cff39bbf35ddd84961072b7c4302cdb7aa386bb1a4b94fc11f2235ef551d44a1"
+  },
+  {
+   "asset": "assets/audio/sfx/phase_shift.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "daf3a6486b1ee17e0c5bee104fe396225e4521424959284cc092b000aaa38f95",
+   "record_hash": "55b0627286b3835a92b3363f82f121a527d5269d5cf17be60922731ad601af17"
+  },
+  {
+   "asset": "assets/audio/sfx/pistol_shot.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "06c7c598acd5dfc21280bb4d9f7178b730b2a7d5c95d478eb915d6fd3f1af690",
+   "record_hash": "4d56012df2d340dcf854a97f3fc2ca1640fb2290824d11f9e9469a595adb80d9"
+  },
+  {
+   "asset": "assets/audio/sfx/player_down.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "99de5b2969f1e7962040b45d41f381f22c99456fc674f8b208b5c41c21f03b99",
+   "record_hash": "5cdc25a7b5774c1562c8dd28d6b4b21cab6724225b3d68a48de98b90861348e5"
+  },
+  {
+   "asset": "assets/audio/sfx/player_hurt.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "0b30d01d61984271ef9f6650cc0c57e22d3df24c39ce41a8dfb576b28645fbd3",
+   "record_hash": "d87ab6f959ff6157646ebe11d7f1aab3a96a8315a03a4e290761b2e4268c2e29"
+  },
+  {
+   "asset": "assets/audio/sfx/rifle_shot.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "45f7826d26c8679d3a981e63b4a2b4de740a02b852866b77a532fa392edd340c",
+   "record_hash": "74f954bacf7a917dc51c8f93f9ae9e1f19d5d67d5004bd33eaa92d8da8101b6e"
+  },
+  {
+   "asset": "assets/audio/sfx/scatter_shot.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "2fe181e489c4d87150bbac193380017064d1732956e67e575c58615698c8945b",
+   "record_hash": "3536e298a68fb6d2d323fcc162ed55b76d5efd6a0b47b19ec1098c0cd633f7fb"
+  },
+  {
+   "asset": "assets/audio/sfx/shift_denied.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "f60dd62488d4d0c27fe4a7cfa24bbbb98603bfff2d2ece4bb68e391831cbc0aa",
+   "record_hash": "85169177dcbb54958f8edbb4e7a2d81e9d6bd750c95937a967f32650dfeb6472"
+  },
+  {
+   "asset": "assets/audio/sfx/shift_snap.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "79236895ff4ed0711aeadd05d930aa38f4bc38d1a87d1a3fdfb58d7afd0caa83",
+   "record_hash": "b965698b96ae547cb3ee39560277cdbbc89f52a5278ac902f730c558f7a06a88"
+  },
+  {
+   "asset": "assets/audio/sfx/ui_click.wav",
+   "kind": "sfx",
+   "status": "candidate",
+   "made_by": {
+    "name": "procedural synthesis",
+    "category": "Audio",
+    "model": "tools/gen_sfx.py (numpy, seeded RNG 20261103)",
+    "weights": "n/a",
+    "weights_sha256": "n/a"
+   },
+   "seed": 20261103,
+   "prompt": "synthesised from primitives; no samples",
+   "recipe": "22050 Hz mono 16-bit WAV",
+   "run": "desperado-build-20261103",
+   "sha256": "a3cb8e30d33a5aa59cbdd7774f4862aa367c493d42a45c2d84540e63e95ea558",
+   "record_hash": "3155ba1a9605e339953074df0e1471e27ddfe9e3ec11a95b6e9d4dbd1bf8cddf"
+  }
+ ]
+}
