@@ -3,9 +3,18 @@ extends Node
 ##
 ## Contract: idempotent; called once before the main scene reads input.
 ## Actions are registered in code so the project file carries no
-## serialised event blobs. Physical keys: WASD/arrows move, J attack,
-## K / Space dodge, L / E shift (cycle form), 1/2/3 direct form,
-## F / Enter interact, Esc pause, R restart at death/ending screens.
+## serialised event blobs.
+##
+## Arena build: WASD/arrows move, J attack, K dodge, L / E shift
+## (cycle form), 1/2/3 direct form, F / Enter interact, Esc pause,
+## R restart at death/ending screens.
+##
+## Scroller build (DESIGN-ADDENDUM-20261109.md): A/D or arrows move,
+## W / Up aim up (Up+move = diagonal), S / Down crouch on the ground
+## and aim down in the air, Space jump, Z / J shoot (hold),
+## X / L / E shift, C / K / Shift-key dodge-roll. Space moved from
+## dodge to jump so the two scroller verbs can never collide on one
+## key; the dodge action keeps K and gains C and the Shift key.
 
 const ACTIONS: Dictionary = {
 	"move_left": [KEY_A, KEY_LEFT],
@@ -13,14 +22,17 @@ const ACTIONS: Dictionary = {
 	"move_up": [KEY_W, KEY_UP],
 	"move_down": [KEY_S, KEY_DOWN],
 	"attack": [KEY_J],
-	"dodge": [KEY_K, KEY_SPACE],
-	"shift": [KEY_L, KEY_E],
+	"dodge": [KEY_K, KEY_C, KEY_SHIFT],
+	"shift": [KEY_L, KEY_E, KEY_X],
 	"form_1": [KEY_1],
 	"form_2": [KEY_2],
 	"form_3": [KEY_3],
 	"interact": [KEY_F, KEY_ENTER],
 	"pause": [KEY_ESCAPE],
 	"confirm": [KEY_R],
+	"jump": [KEY_SPACE],
+	"crouch": [KEY_S, KEY_DOWN],
+	"shoot": [KEY_Z, KEY_J],
 }
 
 
